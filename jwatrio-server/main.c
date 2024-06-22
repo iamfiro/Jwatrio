@@ -5,6 +5,7 @@
 #include <stdlib.h>
 
 #include "render.h"
+#include "screen.h"
 
 int main() {
     int menuItems = 5;
@@ -22,8 +23,24 @@ int main() {
     movePos(screenX + 6, screenY + 2); printf("J W A T R I O"); Sleep(100);
     render->start(render);
 
-    int selectedMenu = render->getSelectedMenu(render); // 선택된 메뉴 확인
-    printf("Selected Menu: %d\n", selectedMenu); // 선택된 메뉴 출력
+    int selectedMenu = render->getSelectedMenu(render);
+    switch (selectedMenu) {
+    case 0:
+        printf("1-Player Game\n");
+        break;
+    case 1:
+        screenStartNetwork(screenX, screenY);
+        break;
+    case 2:
+        printf("Options\n");
+        break;
+    case 3:
+        printf("Highscores\n");
+        break;
+    case 4:
+        printf("좌호빈사진보기\n");
+        break;
+    }
 
     // 메모리 해제
     for (int i = 0; i < menuItems; i++) {
@@ -31,6 +48,7 @@ int main() {
     }
     free(render->menuSelectText);
     free(render);
+
 
     return 0;
 }

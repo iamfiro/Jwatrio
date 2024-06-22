@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\network.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:network.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:render.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|C:\\dev\\me\\Jwatrio\\jwatrio-server\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8925EA54-4D15-4355-B70A-DC2F146BCE7B}|jwatrio-server.vcxproj|solutionrelative:text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "text.h",
               "DocumentMoniker": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\text.h",
               "RelativeDocumentMoniker": "text.h",
               "ToolTip": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\text.h",
               "RelativeToolTip": "text.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-21T04:31:27.858Z",
               "IsPinned": true,
@@ -48,15 +56,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "render.h",
               "DocumentMoniker": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.h",
               "RelativeDocumentMoniker": "render.h",
               "ToolTip": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.h",
               "RelativeToolTip": "render.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-21T04:30:18.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "screen.h",
+              "DocumentMoniker": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\screen.h",
+              "RelativeDocumentMoniker": "screen.h",
+              "ToolTip": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\screen.h",
+              "RelativeToolTip": "screen.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-21T06:01:29.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "render.c",
+              "DocumentMoniker": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.c",
+              "RelativeDocumentMoniker": "render.c",
+              "ToolTip": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.c",
+              "RelativeToolTip": "render.c",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T06:12:56.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "network.c",
+              "DocumentMoniker": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\network.c",
+              "RelativeDocumentMoniker": "network.c",
+              "ToolTip": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\network.c",
+              "RelativeToolTip": "network.c",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T06:00:03.302Z",
               "EditorCaption": ""
             },
             {
@@ -67,27 +113,14 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-21T04:25:09.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "render.c",
-              "DocumentMoniker": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.c",
-              "RelativeDocumentMoniker": "render.c",
-              "ToolTip": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\render.c",
-              "RelativeToolTip": "render.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-21T04:18:15.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "text.c",
               "DocumentMoniker": "C:\\dev\\me\\Jwatrio\\jwatrio-server\\text.c",
               "RelativeDocumentMoniker": "text.c",
@@ -95,8 +128,7 @@
               "RelativeToolTip": "text.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-21T04:30:15.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T04:30:15.867Z"
             }
           ]
         }

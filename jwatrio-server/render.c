@@ -13,9 +13,9 @@ ConsoleRender* createRender(int x, int y, char** menuSelectText, int menuItems) 
         console->menuItems = menuItems;
         console->menuSelectText = (char**)malloc(menuItems * sizeof(char*));
         for (int i = 0; i < menuItems; i++) {
-            console->menuSelectText[i] = (char*)malloc(20 * sizeof(char));
-            strncpy_s(console->menuSelectText[i], 20, menuSelectText[i], 19);
-            console->menuSelectText[i][19] = '\0';  // Null-terminate
+            console->menuSelectText[i] = (char*)malloc(500 * sizeof(char));
+            strncpy_s(console->menuSelectText[i], 500, menuSelectText[i], 499);
+            console->menuSelectText[i][499] = '\0';  // Null-terminate
         }
 
         console->movePos = movePos;

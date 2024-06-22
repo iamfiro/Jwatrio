@@ -21,10 +21,12 @@
   <ItemGroup>
     <ClCompile Include="main.c" />
     <ClCompile Include="render.c" />
+    <ClCompile Include="network.c" />
     <ClCompile Include="text.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="render.h" />
+    <ClInclude Include="screen.h" />
     <ClInclude Include="text.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
