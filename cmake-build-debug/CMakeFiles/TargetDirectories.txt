@@ -1,3 +1,0 @@
-C:/dev/me/Jwatrio/cmake-build-debug/CMakeFiles/Jwatrio.dir
-C:/dev/me/Jwatrio/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/dev/me/Jwatrio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
