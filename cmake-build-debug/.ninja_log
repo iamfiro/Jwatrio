@@ -1,0 +1,5 @@
+# ninja log v6
+7	816	7406341785118310	CMakeFiles/Jwatrio.dir/main.c.obj	3107f68e7d0ed57f
+12	4505	7404600008436697	CMakeFiles/Jwatrio.dir/server.c.obj	1281dba186a13f0c
+3	254	7406344905964504	build.ninja	8afc697af931772c
+817	924	7406341793208337	Jwatrio.exe	21f500f672b85264
